@@ -101,14 +101,16 @@ Some conclusions
 
 We can see that while the avg. listing price at Tribeca is higher than the Village of Soho neighborhoods, the avg. Airbnb listing price at Tribeca is the same or lower than the Village and Soho. And for Central Park South, even been the most expensive area in the city, is not were we will find the highest average Airbnb listing price.
 
-Another conclusion is that, even as rent are the same at certain neighborhoods, average Airbnb ratings differ, as it the case with certain Bronx areas and areas in south Brooklyn, speacially near the ocean.
-
 Here is an example:
 
 10013-Village/Soho. Average rent = $4489, avg. Airbnb listing price = $428
 10019-Central Park South. Average rent = $6900. Airbnb listing price = $229
 
-Running our data analysis we can see that based on rents there are zip codes in New York that offer more "Bang for your Buck" when it comes to listing at Airbnb. Also, to validate our analysis we found that our StreetEasy dataset and our Airbnb dataset have a strong correlation of 0.7.
+Another conclusion is that, even as rent are the same at certain neighborhoods, average Airbnb ratings differ, as it the case with certain Bronx areas compared to areas in south Brooklyn, that were more expensive, speacially near the ocean.
+
+Running our data analysis we can see that based on rents, there are zip codes in New York that offer more "Bang for your Buck" when it comes to listing at Airbnb. 
+
+To validate our data analysis, we found that our StreetEasy dataset and our Airbnb dataset have a strong correlation of 0.7.
 
 
 
