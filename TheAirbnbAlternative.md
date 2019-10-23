@@ -76,3 +76,6 @@ These zip codes break out of that correlation offering more value to the homeown
 
 These zip codes break that correlation the other way, offering more value for the customer. We may even recommend looking for rentals on Airbnb instead of using the traditional rental market. 
 
+Airbnb vs. Average rent analysis 
+
+
