@@ -106,7 +106,7 @@ Here is an example:
 10013-Village/Soho. Average rent = $4489, avg. Airbnb listing price = $428
 10019-Central Park South. Average rent = $6900. Airbnb listing price = $229
 
-Another conclusion is that, even as rent are the same at certain neighborhoods, average Airbnb ratings differ, as it the case with certain Bronx areas compared to areas in south Brooklyn, that were more expensive, speacially near the ocean.
+Another conclusion is that, even as rent are the same at certain neighborhoods, average Airbnb ratings differ, as it is the case with certain Bronx areas compared to areas in south Brooklyn, that were more expensive, speacially near the ocean.
 
 Running our data analysis we can see that based on rents, there are zip codes in New York that offer more "Bang for your Buck" when it comes to listing at Airbnb. 
 
